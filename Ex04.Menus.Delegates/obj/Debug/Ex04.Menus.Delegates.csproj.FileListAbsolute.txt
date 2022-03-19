@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\projects for git\A22 Ex04 RonOfir 315995738 AlmogShmul 203426895\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\admin\Desktop\projects for git\A22 Ex04 RonOfir 315995738 AlmogShmul 203426895\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\admin\Desktop\projects for git\A22 Ex04 RonOfir 315995738 AlmogShmul 203426895\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\projects for git\A22 Ex04 RonOfir 315995738 AlmogShmul 203426895\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\projects for git\A22 Ex04 RonOfir 315995738 AlmogShmul 203426895\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\admin\Desktop\projects for git\A22 Ex04 RonOfir 315995738 AlmogShmul 203426895\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\admin\Desktop\projects for git\Main mene - Delagte and Intrface\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\admin\Desktop\projects for git\Main mene - Delagte and Intrface\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\admin\Desktop\projects for git\Main mene - Delagte and Intrface\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\projects for git\Main mene - Delagte and Intrface\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\projects for git\Main mene - Delagte and Intrface\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\admin\Desktop\projects for git\Main mene - Delagte and Intrface\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
